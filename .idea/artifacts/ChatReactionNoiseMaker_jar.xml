@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatReactionNoiseMaker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatReactionNoiseMaker_jar</output-path>
+    <root id="archive" name="ChatReactionNoiseMaker.jar">
+      <element id="module-output" name="ChatReactionNoiseMaker" />
+      <element id="dir-copy" path="C:/MyProgramStuff/Spigot/Spigot/Spigot-API" />
+    </root>
+  </artifact>
+</component>
