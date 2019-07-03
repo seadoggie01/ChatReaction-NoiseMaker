@@ -1,14 +1,13 @@
 # Ignore all output files
 out/
 
-# Don't ignore the actuall jar... I hope this throws it in a top level directory :|
+# But don't ignore the actual jar
 !/out/artifacts/ChatReactionNoiseMaker_jar/*
 
-# Lol, my gitignore won't ignore itself with GitHub desktop
-.gitignore
-
-# And neither will my .idea project files be ignored
+# Ignore the .idea folder
 .idea/
+
+# -------   Default Java ignores from GitHub    -------
 
 # Compiled class file
 *.class
