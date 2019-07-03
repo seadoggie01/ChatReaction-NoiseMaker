@@ -1,0 +1,7 @@
+name: ChatReaction-NoiseEdition
+version: 1.0.0.1
+main: com.seadoggie.NoiseMaker
+author: clip
+authors: [seadoggie]
+api-version: 1.13
+depend: [ChatReaction]
